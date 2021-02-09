@@ -1,2 +1,2 @@
-# LeerMatriz
-Este Programa lee una matriz desde un archivo de texto.
+# SumaDeEnteros
+Este Programa suma dos numeros enteros
